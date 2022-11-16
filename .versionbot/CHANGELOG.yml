@@ -1,0 +1,32 @@
+- commits:
+    - subject: Switch from balenaCI to flowzone
+      hash: 132a3b472550aaf306e8b5ff2c2fa7724648813f
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Heath Raftery (@hraftery) <heath.raftery@balena.io>
+        signed-off-by: Heath Raftery (@hraftery) <heath.raftery@balena.io>
+      author: Heath Raftery
+      nested: []
+    - subject: Fix typo in readme
+      hash: d0b428659b11ae3ecfe396ca311e5394e93c9aed
+      body: ""
+      footer:
+        Change-type: minor
+        change-type: minor
+        Signed-off-by: Anuj Deshpande <anuj@balena.io>
+        signed-off-by: Anuj Deshpande <anuj@balena.io>
+      author: Anuj Deshpande
+      nested: []
+    - subject: extended case to fit connectors
+      hash: 90fd5e6660d0ffdeaaf02ceeeed0ae96d301799d
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Konstantinos Mouzakis
+      nested: []
+  version: 0.1.0
+  title: ""
+  date: 2022-11-16T14:37:54.876Z
